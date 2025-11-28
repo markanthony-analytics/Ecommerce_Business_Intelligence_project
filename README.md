@@ -4,7 +4,8 @@ As a part of the start-up team, I will support the CEO, Head of Marketing, and W
 ## Project Objective
 My primary responsibilities include analysing and optimizing marketing channels, measuring and testing website conversion performance, and analysing data to determine the impact of new product launches.
 ## Project Execution
-I'm going to use MYSQL to analyse landing page performance and conversion, as well as product-level sales. The SQL solution codes have been attacked to this repository as [sql_query_solution.sql](https://github.com/nelson-analytics/Ecommerce_Business_Intelligence_project/blob/main/sql_query_solution.sql) and to get the visual overview of this analysis, please check dashboard on the [Umax-eshop Ad Campaign Performance Overview](https://public.tableau.com/app/profile/nelson4083/viz/Umax-eshopAdCampaignPerformanceOverview/Overview?publish=yes).
+I'm going to use MYSQL to analyse landing page performance and conversion, as well as product-level sales. The SQL solution codes have been attacked to this repository as 
+[sql_query_solution.sql](https://github.com/markanthony-analytics/Ecommerce_Business_Intelligence_project/blob/main/sql_query_solution.sql) .
 Below is the Entity Relationship (ER) Diagram Model of Umax-eshop ecommerce database
 
 
@@ -135,4 +136,5 @@ Let's show the entire session and order volume trended yearly during the life of
 1.	According to the device-level analysis of conversion rates, desktop was performing well. It is then proposed that nonbrand gsearch campaigns be bid on desktop.
 2.	According to the website performance analysis, the homepage, products page, and Mr. Fuzzy page appear to receive the majority of website traffic. It is rather obvious where the Website Manager should focus any improvements.
 3.	The product sales analysis revealed that 'The Original Mr. Fuzzy' is doing extremely well in the advertising campaign. It is consequently recommended that this product be given more attention in terms of upgrades in order to drive more sales. 
+
 
